@@ -295,7 +295,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterSocial
-          brandName="Basketball Championship"
+          logoText="Basketball Championship"
           copyrightText="© 2024 Basketball Championship Tournament. All rights reserved."
           columns={[
             {
