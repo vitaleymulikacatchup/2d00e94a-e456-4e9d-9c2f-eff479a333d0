@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -66,42 +66,42 @@ export default function LandingPage() {
           animationType="slide-up"
           features={[
             {
-              id: "1",
+              id: 1,
               title: "Thunder Hawks",
               description: "Defending champions with an impressive track record of strategic gameplay and teamwork excellence",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763639690568-7enhd4ag.jpg",
               imageAlt: "Thunder Hawks team"
             },
             {
-              id: "2",
+              id: 2,
               title: "Lightning Bolts",
               description: "Known for their lightning-fast offensive plays and aggressive defensive strategies",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763639691678-cdyvm3cd.jpg",
               imageAlt: "Lightning Bolts team"
             },
             {
-              id: "3",
+              id: 3,
               title: "Storm Riders",
               description: "Rising stars with exceptional young talent and innovative coaching techniques",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763639692802-smtq48nm.jpg",
               imageAlt: "Storm Riders team"
             },
             {
-              id: "4",
+              id: 4,
               title: "Fire Wolves",
               description: "Veteran team with years of championship experience and proven leadership",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763639693868-1jbzsvaq.jpg",
               imageAlt: "Fire Wolves team"
             },
             {
-              id: "5",
+              id: 5,
               title: "Ice Eagles",
               description: "Strong defensive unit known for their disciplined gameplay and clutch performances",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763639694761-jdmsen9c.jpg",
               imageAlt: "Ice Eagles team"
             },
             {
-              id: "6",
+              id: 6,
               title: "Steel Panthers",
               description: "Physical powerhouse team with dominant inside presence and rebounding strength",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763639695698-nnynkl64.jpg",
